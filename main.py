@@ -1,3 +1,2 @@
-name = "Nadirbiy"
-print(name)
+
 
